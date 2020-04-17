@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+<html lang="en-US">
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <main>
+    <h1>Welcome</h1>
+		<h2>This is a page where...</h2>
+		<p>I plan to store all the links to my writing. Whether it be poetry or short stories or chapter pieces you name it. It'll be here.</p>
+		<h3>Poetry</h3>
+    <div class="flex-img">
+        <a href="https://docs.google.com/document/d/1yCifD6xef1iLjCgaG0qrNRbQVogTgVhu85P-lhhZaRk/edit" target="_blank">
+           <img border="0" alt="Lemon" img src="lemon.png"  width="200" height="200"></a>
+
+
+        <a href="https://docs.google.com/document/d/11h5BJVGNTaxFbVT6y84xhOSuY5w-8PBoJ1UAqTSkA8Y/edit" target="_blank">
+          <img border="0" img src="footsteps.png" alt="Footsteps" width:"200" height="200"></a>
+
+        <a href="https://docs.google.com/document/d/1Bit-oq3xAUSxPkP6rp6P6IAZ-lBSuez921I-SjjcXbw/edit" id="iris" target="_blank">
+          <img border="0" img src="iris.png" alt="Purple Iris" width:"200" height="200"></a>
+    </div>
+		<h3>Characters</h3>
+    <div class="char">
+			<a href="https://docs.google.com/forms/d/1zwToLCX_C5WvUao7x_sU7U_jhthRLU15-FCfVNKFiAI/edit" target="_blank">
+        <img border="0" img src="gender.png" alt="Gender signs" width="300" height="200"></a>
+			<a href="https://docs.google.com/spreadsheets/d/1hm7i8nrQNdaFO1hzdKxOHMTMzc3oVbWHc8fAWP-fIyw/edit#gid=613831374" target="_blank">
+        <img border="0" img src="gender.png" alt="Gender signs" width="300" height="200"></a>
+      </div>
+		<h3>Short Stories</h3>
+			<a href="https://docs.google.com/document/d/1-mlnITwg7vmDxI2WH_2QwZdwKtHhB2sRrdPCZVptYgQ/edit" target="_blank"> The Number System</a><br />
+			<a href="https://docs.google.com/document/d/1Rf4kmA2rUapJjo37SQepezBkMiiXhfqb6gxT2Cn3jN0/edit" target="_blank"> Markings of the Few</a><br />
+			<a href="https://docs.google.com/document/d/1gkVYFR3fm1kfMP8z1LnbdhAv6dGvvJK7Y3cd1lhdsp4/edit" target="_blank"> Drowned Glory</a><br />
+			<a href="https://docs.google.com/document/d/1GyXpt35Vpm4Z7WYw4SMvQlXOD8-JvlPJy2T-WDjYyAM/edit" target="_blank"> Writing Warm-ups</a><br />
+			<a href="https://docs.google.com/document/d/1Akiv2xESSf-SBgPhqVFI88EbVZgY_BDrtU4iSBsou0I/edit" target="_blank"> Prompts</a>
+    </main>
+    </body>
+      <footer>
+          <div class="footer">
+		<h4>Social Media</h4>
+
+    <div class="foot-img">
+      <div class="name"><p>@elex_gray</p><p>@decohaven_photos</p></div>
+    <a href="https://www.instagram.com/elex_gray/" target="_blank" class="fa fa-instagram"></a>
+    <a href="https://www.instagram.com/decohaven_photos/" target="_blank" class="fa fa-instagram"></a>
+</div>
+  </div>
+  </footer>
+
+</html>
