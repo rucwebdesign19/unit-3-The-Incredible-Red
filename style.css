@@ -1,0 +1,90 @@
+h1{
+  text-align: center;
+}
+
+  body {
+  	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  	background-size: 400% 400%;
+  	animation: gradient 15s ease infinite;
+  }
+
+  @keyframes gradient {
+  	0% {
+  		background-position: 0% 50%;
+  	}
+  	50% {
+  		background-position: 100% 50%;
+  	}
+  	100% {
+  		background-position: 0% 50%;
+  	}
+  }
+
+.fa {
+  padding: 20px;
+  margin-top: 0px;
+  margin-left: 20px;
+  font-size: 30px;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #cc66ff;
+  color: white;
+}
+
+img{
+  margin-left: 20px;
+}
+
+#iris{
+  width: 200px;
+  height: 200px;
+}
+
+.flex-img {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer{
+  display: block;
+  margin: 0;
+  padding: 0;
+  border:0
+  vertical-align: baseline;
+  background-color: #000000;
+}
+
+.foot-img{
+  display: flex;
+  justify-content: center;
+}
+/*.name{
+  {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+*/
+h4{
+  color: #fff;
+  text-align: center;
+}
+
+p{
+  color: #fff;
+}
+
+.char{
+    display: flex;
+    align-content: center;
+}
