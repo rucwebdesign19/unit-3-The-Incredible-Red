@@ -1,4 +1,4 @@
-h1{
+h1, h3, h4, h2, p {
   text-align: center;
 }
 
@@ -55,36 +55,34 @@ img{
   justify-content: space-around;
 }
 
+.lemon:hover, .foot:hover, .iris:hover, .char:hover, .drag:hover, .warm:hover, .book:hover, .dive:hover{
+  opacity: 0.7;
+}
+
+
 .footer{
-  display: block;
-  margin: 0;
-  padding: 0;
-  border:0
-  vertical-align: baseline;
+  width: 100%;
   background-color: #000000;
+  padding: 20px 0px;
 }
 
 .foot-img{
   display: flex;
   justify-content: center;
 }
-/*.name{
-  {
-    color: #fff;
-    display: flex;
-    justify-content: center;
-}
-*/
+
 h4{
   color: #fff;
   text-align: center;
 }
 
-p{
-  color: #fff;
-}
-
 .char{
     display: flex;
-    align-content: center;
+    justify-content: space-around;
+}
+
+.story{
+  display: flex;
+  justify-content: space-around;
+
 }
