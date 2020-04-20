@@ -15,6 +15,7 @@ h1, h3, h4, h2, p {
   	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   	background-size: 400% 400%;
   	animation: gradient 15s ease infinite;
+    margin: 0;
   }
 
   @keyframes gradient {
@@ -62,6 +63,7 @@ img{
 .flex-img {
   display: flex;
   justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .lemon:hover, .foot:hover, .iris:hover, .char:hover, .drag:hover, .warm:hover, .book:hover, .dive:hover{
@@ -78,6 +80,8 @@ img{
 .foot-img{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  color: #fff;
 }
 
 h4{
@@ -93,9 +97,17 @@ h4{
 .story{
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 
 }
 
+.insta-caption{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin-top: 0;
+  }
+}
 
 /*
 @media only screen and (min-width: 900px){
