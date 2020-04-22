@@ -113,7 +113,14 @@ h4{
       flex-direction: row;
       flex-wrap: wrap;
       margin-top: 0;
+      align-items: center;
   }
+}
+
+.fa-instagram::before{
+  position: relative;
+  bottom: 4px;
+  right: 2px;
 }
 
 /*
