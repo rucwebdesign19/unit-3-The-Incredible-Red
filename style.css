@@ -105,7 +105,6 @@ h4{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-
 }
 
 .insta-caption{
@@ -115,12 +114,11 @@ h4{
       margin-top: 0;
       align-items: center;
   }
-}
 
 .fa-instagram::before{
   position: relative;
-  bottom: 4px;
-  right: 2px;
+  bottom: 6px;
+  right: 4.5px;
 }
 
 /*
